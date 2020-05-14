@@ -9,7 +9,7 @@ Youtube : https://youtu.be/I2PYkPmegUs
 
 **Please click the image below to enlarge.**
 
-<img src="https://github.com/kangadit/BusBookingUI/blob/master/Screenshots/20200514_091515.jpg" height="750" width="100%" hspace="0">
+<img src="https://github.com/kangadit/KuisSederhana/blob/master/Screenshots/20200514_091515.jpg" height="750" width="100%" hspace="0">
 
 
 ## Contact - Let's become friend
